@@ -6,7 +6,7 @@ Hierakonpolis creates a product template zoo and calculates dependencies between
 
 ```
 sudo easy_install pip
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 
 ```
 
